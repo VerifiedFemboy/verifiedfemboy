@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Hi, I'm Maciek! 17 y/o future game developer!
 🔭 I’m currently working on **RoyalMC & ElysianBlocks Organizations**<br>📋 I’m currently learning **C++, Unreal Engine, Python and also Rust 🦀**<br>⚡ Fun fact **I'm crazy!**
 
 
