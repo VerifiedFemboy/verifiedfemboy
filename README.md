@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciek</h1>
 <h3 align="center">I am future Game Developer from Poland 🇵🇱</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=verifiedfemboy&label=Profile%20views&color=0e75b6&style=flat" alt="verifiedfemboy" /> </p>
-
 - 🔭 I’m currently working on **RoyalMC & ElysianBlocks Organizations**
 
 - 📋 I’m currently learning **C++, Unreal Engine, Python and also Rust 🦀**
@@ -26,4 +23,7 @@
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/verifiedfemboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="verifiedfemboy" /></a></p><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verifiedfemboy&label=Profile%20views&color=ffa8fb&style=flat" alt="verifiedfemboy" /> </p>
+
 
