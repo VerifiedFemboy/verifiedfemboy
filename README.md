@@ -2,6 +2,8 @@
 ## Hi, I'm Maciek! 17 y/o future game developer!
 🔭 I’m currently working on **RoyalMC & ElysianBlocks Organizations**<br>📋 I’m currently learning **C++, Unreal Engine, Python and also Rust 🦀**<br>⚡ Fun fact **I'm crazy!**
 
+<a href="https://wakatime.com/@e215f0d0-1354-483d-b4a2-e21eb26ecc37"><img src="https://wakatime.com/badge/user/e215f0d0-1354-483d-b4a2-e21eb26ecc37.svg" alt="Total time coded since May 29 2023" /></a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/verifiedfemboy) 
