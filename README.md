@@ -1,28 +1,20 @@
-# 💫 About Me:
-## Hi, I'm Maciek! 17 y/o future game developer!
-🔭 I’m currently working on **RoyalMC & ElysianBlocks Organizations**<br>📋 I’m currently learning **C++, Unreal Engine, Python and also Rust 🦀**<br>⚡ Fun fact **I'm crazy!**
+# Welcome To My Github Profile! 😸 
 
-<a href="https://wakatime.com/@e215f0d0-1354-483d-b4a2-e21eb26ecc37"><img src="https://wakatime.com/badge/user/e215f0d0-1354-483d-b4a2-e21eb26ecc37.svg" alt="Total time coded since May 29 2023" /></a>
+## Introduce
+Hello! My name is Maciek, and I am a 17-year-old developer from Poland 🇵🇱. Despite being deaf, my passion for programming and creating innovative projects drives me forward every day. I have a deep love for animals, especially cats, and I find joy in their companionship.
 
+In addition to my programming endeavors, I am also fascinated by the world of physics and astronomy. I love exploring the mysteries of the universe. My appreciation for beauty extends to nature as well, where I adore beautiful pink flowers.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/verifiedfemboy) 
+Currently, I am honing my skills in the Rust programming language and eagerly awaiting the release of Carbon language from Google. Even though I am deaf, I enjoy listening to music, finding unique ways to experience and appreciate it.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
+I am always excited to learn new things and push the boundaries of what I can create with technology.
+
+## Languages 
+Soon...
+
+## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=VerifiedFemboy&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VerifiedFemboy&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VerifiedFemboy&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VerifiedFemboy&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=VerifiedFemboy&icon=7&color=10)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/verifiedfemboy) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/verifiedfemboy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <a href="https://wakatime.com/@e215f0d0-1354-483d-b4a2-e21eb26ecc37"><img src="https://wakatime.com/badge/user/e215f0d0-1354-483d-b4a2-e21eb26ecc37.svg" alt="Total time coded since May 29 2023" /></a>
