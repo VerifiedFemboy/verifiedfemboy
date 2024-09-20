@@ -1,7 +1,7 @@
 # Welcome To My Github Profile! 😸 
 
 ## Introduce
-Hello! My name is Maciek, and I am a 17-year-old developer from Poland 🇵🇱. Despite being deaf, my passion for programming and creating innovative projects drives me forward every day. I have a deep love for animals, especially cats, and I find joy in their companionship.
+Hello! My name is Maciek, and I am a 18-year-old developer from Poland 🇵🇱. Despite being deaf, my passion for programming and creating innovative projects drives me forward every day. I have a deep love for animals, especially cats, and I find joy in their companionship.
 
 In addition to my programming endeavors, I am also fascinated by the world of physics and astronomy. I love exploring the mysteries of the universe. My appreciation for beauty extends to nature as well, where I adore beautiful pink flowers.
 
