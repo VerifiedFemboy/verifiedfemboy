@@ -18,3 +18,7 @@ Soon...
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VerifiedFemboy&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <a href="https://wakatime.com/@e215f0d0-1354-483d-b4a2-e21eb26ecc37"><img src="https://wakatime.com/badge/user/e215f0d0-1354-483d-b4a2-e21eb26ecc37.svg" alt="Total time coded since May 29 2023" /></a>
+
+
+https://github.com/user-attachments/assets/54226516-4ea8-4d1b-a93b-e8b51f2b07ef
+
