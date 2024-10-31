@@ -21,7 +21,7 @@ Soon...
 </div>
 
 ## <a href="https://wakatime.com/@e215f0d0-1354-483d-b4a2-e21eb26ecc37"><img src="https://wakatime.com/badge/user/e215f0d0-1354-483d-b4a2-e21eb26ecc37.svg" alt="Total time coded since May 29 2023" /></a>
-
+<figure><embed src="https://wakatime.com/share/@VerifiedFemboy/0cd8323e-3b44-4e34-ba7b-4bc76e31b7e8.svg"></embed></figure>
 
 https://github.com/user-attachments/assets/dec48388-1b6c-450c-8d08-d3d3342d6e4e
 
